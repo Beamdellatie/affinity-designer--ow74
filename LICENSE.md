@@ -1,4 +1,4 @@
-
+smart Panel for Affinity Designer for macOS - custom brushes and real-time preview is the best Affinity Designer for macOS panel, featuring custom brushes and real-time preview.
 
 
 
